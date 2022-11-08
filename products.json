@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "EMF Shirt",
+    "price": 999,
+    "imgSrc": "shop1"
+  },
+  {
+    "id": 2,
+    "title": "Brasil Shirt",
+    "price": 1390,
+    "imgSrc": "shop2"
+  },
+  {
+    "id": 3,
+    "title": "Ronaldo Shirt",
+    "price": 9990,
+    "imgSrc": "shop3"
+  },
+  {
+    "id": 4,
+    "title": "EMF Shirt",
+    "price": 999,
+    "imgSrc": "shop1"
+  },
+  {
+    "id": 5,
+    "title": "Brasil Shirt",
+    "price": 1390,
+    "imgSrc": "shop2"
+  },
+  {
+    "id": 6,
+    "title": "Ronaldo Shirt",
+    "price": 9990,
+    "imgSrc": "shop3"
+  },
+  {
+    "id": 7,
+    "title": "EMF Shirt",
+    "price": 999,
+    "imgSrc": "shop1"
+  },
+  {
+    "id": 8,
+    "title": "Brasil Shirt",
+    "price": 1390,
+    "imgSrc": "shop2"
+  },
+  {
+    "id": 9,
+    "title": "Ronaldo Shirt",
+    "price": 9990,
+    "imgSrc": "shop3"
+  }
+]
