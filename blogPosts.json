@@ -1,54 +1,63 @@
 [
   {
     "id": 1,
+    "date": "APRIL 22, 2019",
     "title": "Mahir dushuy kimi gulur",
     "text": "Vagif imzalayir, Mahirin gulmeyine bax sen cani",
     "imgSrc": "blog2.jpg"
   },
   {
     "id": 2,
+    "date": "APRIL 23, 2019",
     "title": "Neye gulursen, Tarlan?",
     "text": "Tez imzala, cix chole, bir de seni chagirmariq. Qelet eledik bu defe...",
     "imgSrc": "blog1.jpg"
   },
   {
     "id": 3,
+    "date": "APRIL 24, 2019",
     "title": "Yegane normal futbolchu",
     "text": "Emin Mahmudov kishi kimi oynayirdi, kishi kimi de ozunu aparir, halal olsun!",
     "imgSrc": "blog3.jpg"
   },
   {
     "id": 4,
+    "date": "APRIL 25, 2019",
     "title": "Unikal kadrlar...",
     "text": "Kucheden adam yigmishiq, guya bunlar kecmish futbolchudu, gorek yada sala bilirsiz bu kimdi?",
     "imgSrc": "blog4.jpg"
   },
   {
     "id": 5,
+    "date": "APRIL 26, 2019",
     "title": "Ronaldo Bakida!",
     "text": "Ozu gelmesede, futbolkani getire bilmishik, size de od qiymetine soxacayiq",
     "imgSrc": "shop3.png"
   },
   {
     "id": 6,
+    "date": "APRIL 27, 2019",
     "title": "Mahir dushuy kimi gulur",
     "text": "Vagif imzalayir, Mahirin gulmeyine bax sen cani",
     "imgSrc": "blog2.jpg"
   },
   {
     "id": 7,
+    "date": "APRIL 28, 2019",
     "title": "Neye gulursen, Tarlan?",
     "text": "Tez imzala, cix chole, bir de seni chagirmariq. Qelet eledik bu defe...",
     "imgSrc": "blog1.jpg"
   },
   {
     "id": 8,
+    "date": "APRIL 29, 2019",
     "title": "Yegane normal futbolchu",
     "text": "Emin Mahmudov kishi kimi oynayirdi, kishi kimi de ozunu aparir, halal olsun!",
     "imgSrc": "blog3.jpg"
   },
   {
     "id": 9,
+    "date": "APRIL 30, 2019",
     "title": "Unikal kadrlar...",
     "text": "Kucheden adam yigmishiq, guya bunlar kecmish futbolchudu, gorek yada sala bilirsiz bu kimdi?",
     "imgSrc": "blog4.jpg"
