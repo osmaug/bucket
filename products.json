@@ -3,54 +3,54 @@
     "id": 1,
     "title": "EMF Shirt",
     "price": 999,
-    "imgSrc": "shop1"
+    "imgSrc": "shop1.png"
   },
   {
     "id": 2,
     "title": "Brasil Shirt",
     "price": 1390,
-    "imgSrc": "shop2"
+    "imgSrc": "shop2.png"
   },
   {
     "id": 3,
     "title": "Ronaldo Shirt",
     "price": 9990,
-    "imgSrc": "shop3"
+    "imgSrc": "shop3.png"
   },
   {
     "id": 4,
     "title": "EMF Shirt",
     "price": 999,
-    "imgSrc": "shop1"
+    "imgSrc": "shop1.png"
   },
   {
     "id": 5,
     "title": "Tural Shit",
     "price": 777,
-    "imgSrc": "shop6"
+    "imgSrc": "shop6.png"
   },
   {
     "id": 6,
     "title": "Ronaldo Shirt",
     "price": 9990,
-    "imgSrc": "shop3"
+    "imgSrc": "shop3.png"
   },
   {
     "id": 7,
     "title": "EMF Shirt",
     "price": 999,
-    "imgSrc": "shop1"
+    "imgSrc": "shop1.png"
   },
   {
     "id": 8,
     "title": "Brasil Shirt",
     "price": 1390,
-    "imgSrc": "shop2"
+    "imgSrc": "shop2.png"
   },
   {
     "id": 9,
     "title": "Ronaldo Shirt",
     "price": 9990,
-    "imgSrc": "shop3"
+    "imgSrc": "shop3.png"
   }
 ]
