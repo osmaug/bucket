@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Mahir dushuy kimi gulur",
+    "text": "Vagif imzalayir, Mahirin gulmeyine bax sen cani",
+    "imgSrc": "blog2.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Neye gulursen, Tarlan?",
+    "text": "Tez imzala, cix chole, bir de seni chagirmariq. Qelet eledik bu defe...",
+    "imgSrc": "blog1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Yegane normal futbolchu",
+    "text": "Emin Mahmudov kishi kimi oynayirdi, kishi kimi de ozunu aparir, halal olsun!",
+    "imgSrc": "blog3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Unikal kadrlar...",
+    "text": "Kucheden adam yigmishiq, guya bunla kecmish futbolchudu, gorek yada sala bilirsiz bu kimdi?",
+    "imgSrc": "blog4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Ronaldo Bakida!",
+    "text": "Ozu gelmesede, futbolkani getire bilmishik, size de od qiymetine soxacayiq",
+    "imgSrc": "shop3.png"
+  },
+  {
+    "id": 1,
+    "title": "Mahir dushuy kimi gulur",
+    "text": "Vagif imzalayir, Mahirin gulmeyine bax sen cani",
+    "imgSrc": "blog2.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Neye gulursen, Tarlan?",
+    "text": "Tez imzala, cix chole, bir de seni chagirmariq. Qelet eledik bu defe...",
+    "imgSrc": "blog1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Yegane normal futbolchu",
+    "text": "Emin Mahmudov kishi kimi oynayirdi, kishi kimi de ozunu aparir, halal olsun!",
+    "imgSrc": "blog3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Unikal kadrlar...",
+    "text": "Kucheden adam yigmishiq, guya bunla kecmish futbolchudu, gorek yada sala bilirsiz bu kimdi?",
+    "imgSrc": "blog4.jpg"
+  }
+]
